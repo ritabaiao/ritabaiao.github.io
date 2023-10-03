@@ -9,7 +9,6 @@ permalink: /education/
 
 {% include base_path %}
 
-======
 * PhD in Computer Science Engineering, Instituto Superior Técnico, University of Lisbon, ongoing 
 * MSc in Biomedical Engineering, Instituto Superior Técnico, University of Lisbon, 2022
 * BSc in Biomedical Engineering, Instituto Superior Técnico, University of Lisbon, 2020
