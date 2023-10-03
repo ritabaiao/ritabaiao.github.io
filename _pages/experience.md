@@ -9,7 +9,7 @@ permalink: /experience/
 
 {% include base_path %}
 
-* Teaching Assistant at Instituto Superior Técnico, University of Lisboa (Sept 2023 - present)
+* Teaching Assistant at Instituto Superior Técnico, University of Lisbon (Sept 2023 - present)
   * Computational Biology/Bioinformatics course
 
 * Early Stage Researcher at INESC-ID (Feb 2023 - Oct 2023)
