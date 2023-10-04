@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ana Rita Baião"
 title_separator          : "-"
 name                     : &name "Ana Rita Baião"
-description              : &description "PhD Student at IST and INESC-ID"
+description              : &description "PhD Student and Researcher at IST and INESC-ID"
 url                      : https://ritabaiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ritabaiao/ritabaiao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ana Rita Baião"
   avatar           : "profile.png"
-  bio              : "PhD Student at IST and INESC-ID"
+  bio              : "PhD Student and Researcher at IST and INESC-ID"
   location         : 
   employer         :
   pubmed           : 
